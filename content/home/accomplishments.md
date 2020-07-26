@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Machine Learning"
   url = "https://www.coursera.org/learn/machine-learning/"
   certificate_url = "https://www.coursera.org"
-  date_start = "06/2020"
-  date_end = "08/2020"
+  date_start = "06-2020"
+  date_end = "08-2020"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "VIRTUS UP - IA"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1YCg5G4RskhE8oQr_PmRqii2ffWaG3z1c/view?usp=sharing"
-  date_start = "03/2020"
-  date_end = "05/2020"
+  date_start = "03-2020"
+  date_end = "05-2020"
   description = "Internal training."
 
 +++
