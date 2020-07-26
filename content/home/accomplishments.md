@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -21,31 +21,21 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
+  title = "Machine Learning"
+  url = "https://www.coursera.org/learn/machine-learning/"
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = "06/2020"
+  date_end = "08/2020"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "VIRTUS"
+  organization_url = "https://www.virtus.ufcg.edu.br/"
+  title = "VIRTUS UP - IA"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://drive.google.com/file/d/1YCg5G4RskhE8oQr_PmRqii2ffWaG3z1c/view?usp=sharing"
+  date_start = "03/2020"
+  date_end = "05/2020"
+  description = "Internal training."
 
 +++
